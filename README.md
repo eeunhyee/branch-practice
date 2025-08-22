@@ -1,4 +1,4 @@
-# blue circle
+# blue circle - Rebase test done
 ## TODO
 
 1. create repository
