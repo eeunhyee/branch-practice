@@ -1,4 +1,4 @@
-for j in range(3, 16+1):
+for j in range(1, 15+1):
     if j % 3 == 0:
         print('fizz')
     elif j % 5 == 0:
